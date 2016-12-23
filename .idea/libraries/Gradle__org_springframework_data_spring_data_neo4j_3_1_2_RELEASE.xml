@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-neo4j:3.1.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-neo4j/3.1.2.RELEASE/764f52fca1642b7ead3580b8314782c684c2f343/spring-data-neo4j-3.1.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-neo4j/3.1.2.RELEASE/fe70202a59f36e6752f5fa97332cc1496d03492a/spring-data-neo4j-3.1.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
